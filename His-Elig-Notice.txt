@@ -1,0 +1,23 @@
+Dear {FULLNAME},
+
+We are pleased to inform you that we have reviewed your application, and below are the details of your eligibility for the Citizen Plan.
+
+
+Plan Name: {PLAN-NAME}
+Eligibility Status: {ELIGIBILITY-STATUS}
+Coverage Start Date: {START-DATE}
+Coverage End Date: {END-DATE}
+Monthly Premium: {MONTHLY-PREMIUM}
+Total Coverage Amount: {COVERAGE-AMOUNT}
+
+To proceed with your plan, please review the details and ensure that all the information is accurate.
+
+If you have any questions or need further assistance, feel free to reach out to our support team.
+
+For your convenience, you can access your plan details and manage your account by following the link below:
+{URL}
+
+Thank you for being a valued citizen. We are committed to providing you with the best possible services and ensuring that you get the support you need.
+
+Best regards,
+Citizen Services Team
